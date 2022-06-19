@@ -1,0 +1,31 @@
+#cargando {
+    display: none;
+}
+
+.fs-4 {
+    text-align: left;
+}
+.nav-link img{
+    text-align: right;
+    margin-right: 140px ;
+}
+
+.nav-item{
+    margin-right: 500px ;
+}
+
+
+.pricing-header p{
+    color: #762933;
+  
+}
+h1{
+    color: #762933;
+}
+h2{
+    color:#762933;
+}
+
+h3{
+    color:#762933;
+}
